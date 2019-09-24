@@ -8,17 +8,19 @@
 
 3. modify the line as "CONF_SWAPSIZE=2048". 
 
-// default is "CONF_SWAPSIZE=100(mb)".
+   // default is "CONF_SWAPSIZE=100(mb)".
 
 4. sudo /etc/init.d/dphys-swapfile stop 
 
-// stop the swap service.
+   // stop the swap service.
 
 5. sudo /etc/init.d/dphys-swapfile start 
 
-// restart the service.
+   // restart the service.
 
-6. free -m # check out the information of memory consumption and swap
+6. free -m 
+
+   // check out the information of memory consumption and swap
 
 ![](https://github.com/smiletoeveryone/swapfile_size_modify/blob/master/mem_check.jpg)
 
