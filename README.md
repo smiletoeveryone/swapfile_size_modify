@@ -14,4 +14,6 @@
 
 6. free -m # check out the information of memory consumption and swap
 
-7. you would see the output like it: 
+![](https://github.com/smiletoeveryone/swapfile_size_modify/blob/master/mem_check.jpg)
+
+7. you would see the output like it.
