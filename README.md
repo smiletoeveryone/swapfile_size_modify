@@ -6,7 +6,7 @@
 
 2. sudo vim /etc/dphys-swapfile
 
-3. modify the line as "CONF_SWAPSIZE=1024". 
+3. modify the line as "CONF_SWAPSIZE=2048". 
 
 // default is "CONF_SWAPSIZE=100(mb)".
 
